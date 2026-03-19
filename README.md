@@ -16,15 +16,15 @@
 ## Содержимое
 
 > 1. [Мой основной стек](#my-stack)
-> 1. [Коммерческий опыт разработки](#сommercial-development-experience)  
->    1.1 [Pathogenesis: Overcome, 2019-2025 (Последнее место работы)](#pathogenesis)  
->    1.2 [Practical Shooting Simulator, 2022-2023](#pss)  
->    1.3 [Loco Parentis, (PC, VR) 2018-2019](#loco)  
->    1.4 [Protocol (PC, VR) 2017-2018](#protocol)  
-> 2. [Дополнительный технический опыт](#additional-technical-experience)
-> 3. [Pet-проект: MyDota 🧙‍♂️](#my-dota)
-> 4. [Soft Skills & Командное взаимодействие](#teamwork)
-> 5. [Контакты](#contacts)
+> 2. [Коммерческий опыт разработки](#сommercial-development-experience)  
+>    2.1. [Pathogenesis: Overcome, 2019-2025 (Последнее место работы)](#pathogenesis)  
+>    2.2. [Practical Shooting Simulator, 2022-2023](#pss)  
+>    2.3. [Loco Parentis, (PC, VR) 2018-2019](#loco)  
+>    2.4. [Protocol (PC, VR) 2017-2018](#protocol)  
+> 3. [Дополнительный технический опыт](#additional-technical-experience)
+> 4. [Pet-проект: MyDota 🧙‍♂️](#my-dota)
+> 5. [Soft Skills & Командное взаимодействие](#teamwork)
+> 6. [Контакты](#contacts)
 
 ---
 
