@@ -52,9 +52,24 @@
 В составе небольшой команды я отвечал за архитектуру ключевых систем.
 Моя цель была сделать их гибкими для дизайнеров и производительными для открытого мира.
 
-<video src="Video/PathogenesisOvercome/PathogenesisOvercome-GameOverview.mp4" controls="controls" style="max-width: 100%;">
+<video src="./Video/PathogenesisOvercome/PathogenesisOvercome-GameOverview.mp4" controls="controls" style="max-width: 100%;">
   Ваш браузер не поддерживает встроенное видео.
 </video>
+
+<video src="./Video/PathogenesisOvercome/PathogenesisOvercome-GameOverview.mp4" autoplay loop muted playsinline style="max-width: 100%;"></video>
+
+https://github.com/railagliullindev/UE-dev-portfolio/blob/main/Video/PathogenesisOvercome/PathogenesisOvercome-GameOverview.mp4
+
+https://github.com/railagliullindev/UE-dev-portfolio/raw/main/Video/PathogenesisOvercome/PathogenesisOvercome-GameOverview.mp4
+
+<video src="https://github.com/railagliullindev/UE-dev-portfolio/blob/main/Video/PathogenesisOvercome/PathogenesisOvercome-GameOverview.mp4" controls width="100%"></video>
+
+<video src="ttps://github.com/railagliullindev/UE-dev-portfolio/blob/main/Video/PathogenesisOvercome/PathogenesisOvercome-GameOverview.mp4" controls="controls" style="max-width: 100%;">
+</video>
+
+<video src="ttps://github.com/railagliullindev/UE-dev-portfolio/raw/main/Video/PathogenesisOvercome/PathogenesisOvercome-GameOverview.mp4" controls="controls" style="max-width: 100%;">
+</video>
+
 
 ### Искусственный интеллект и навигация
 - **Система симуляции (A-Life)**: Реализовал логику поведения NPC вне зоны видимости игрока. Это позволило «оживить» мир и столкнуть фракции между собой без нагрузки на процессор.
@@ -172,9 +187,9 @@ _Проект предлагают возможность играть как н
 
 ## Контакты
 
-Готов обсудить ваши задачи и стать частью команды!
-**Telegram**: @rail_agliulliun_dev
-**Почта**: rail.agliullin.dev@gmail.com
+Готов обсудить ваши задачи и стать частью команды!  
+**Telegram**: @rail_agliulliun_dev  
+**Почта**: rail.agliullin.dev@gmail.com  
 
 **[⬆ Содержимое](#table-of-contents)**
 
